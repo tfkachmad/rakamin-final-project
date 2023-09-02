@@ -18,6 +18,6 @@ You can access the interactive dashboard through Looker Studio:
 
 To get a more in-depth understanding of the project and its findings, please refer to the following video presentations:
 
-[Access the video presentation](https://www.youtube.com/)
+[Access the video presentation](https://drive.google.com/file/d/19RbjtBlWMK8XS6I7zYLEqgqEyhxgroR3/view)
 
 ---
